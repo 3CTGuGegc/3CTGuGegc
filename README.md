@@ -1,4 +1,4 @@
-## "Outsmart the System."
+## Outsmart the System.
 
 ⚡ I am currently working as a Software/Hardware Engineer, mainly in the IoT field. Recently, I decided to pursue a career as a Security Engineer, also known as a ethical hacker, after watching many YouTube videos and conducting market analysis. The world is changing dramatically, especially with millions of IoT devices and platforms becoming valuable targets for attackers, highlighting the need for more robust security measures.
 
